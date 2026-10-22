@@ -1,6 +1,3 @@
-# Research-Paper-RAG-Assistant
-AI assistant that answers questions about research papers using Retrieval-Augmented Generation (RAG), with source citations. PRISM project, in development.
-
 # Research Paper RAG Assistant
 
 An AI-powered assistant that lets you ask questions about research papers in plain language and get answers **grounded in the papers themselves**, with citations (paper, section and page) so every answer can be verified.
